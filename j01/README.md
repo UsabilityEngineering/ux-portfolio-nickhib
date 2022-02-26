@@ -1,1 +1,5 @@
-# First Journal Entry...
+The vague air fryer
+
+
+
+
