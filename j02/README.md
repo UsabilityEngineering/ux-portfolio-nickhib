@@ -1,9 +1,12 @@
-#my weedeater
+# My Weedeater
 
 
 ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191145469.jpg)
+The instructions below saved me time and effort because when I was not using the instruction and becoming frustrated on how to start the weedeater. It was right in plain sight in bold letters very easy to use so this made it more **learnable** in my opinion because I would have slowly read through the long small lettered instruction if it warrant these instructions.
 ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191205551_HDR.jpg)
+below is the lever that I had to pull through the full choke to run and this has the string that one has to pull to start the weed eater. the thing that made things more complicated was that when one is starting it one has to flip through the settings slowly going from half choke to run while slowly pressing down on the lever for the throttle. This was fairly complicated until i read the bold instructions 
 ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191219024_HDR.jpg)
+below is the small gas pump I like the **mapping** for this because it is very similar to lawnmowers so it made it easy to switch from a lawnmower to a weedeater. This made it a faster process to learn what to do. When one has a system that is used in a variety of products then there is less one has to learn to use it. So this was fantastic 
 ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191229123_HDR.jpg)
 
 
