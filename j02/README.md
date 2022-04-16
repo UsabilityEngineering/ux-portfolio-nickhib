@@ -4,19 +4,19 @@
 ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191145469.jpg)
 
 
-         ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191205551_HDR.jpg)
+![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191205551_HDR.jpg)
 
 
 below is the lever that I had to pull through the full choke to run and this has the string that one has to pull to start the weed eater. the thing that made things more complicated was that when one is starting it one has to flip through the settings slowly going from half choke to run while slowly pressing down on the lever for the throttle. This was fairly complicated until i read the bold instructions 
 
 
-         ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191219024_HDR.jpg)
+![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191219024_HDR.jpg)
 
 
 below is the small gas pump I like the **mapping** for this because it is very similar to lawnmowers so it made it easy to switch from a lawnmower to a weedeater. This made it a faster process to learn what to do. When one has a system that is used in a variety of products then there is less one has to learn to use it. So this was fantastic 
 
 
-         ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191229123_HDR.jpg)
+ ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191229123_HDR.jpg)
 
 
    <p>When I first obtained this weed eater I wasn't too sure how it worked because I have only used electric weedeaters in the past. I broke it out of the box and out came a special oil, handle, and the safety guard that goes at the bottom of the weed eater. Without reading the instructions I managed to assemble the handle and guard onto the weed eater but I was entirely confused about what to do with the special additive oil. I finally decided to look in the box to find some instructions that would tell me what to do with this oil. I didn't find much in the instruction that thoroughly explained what I was supposed to do. So I looked at the container of the oil and found that there was small text instruction on what to do with it. I would post a picture of it but the container is long gone. The instruction told me to put a specific amount of the additive into the gas that I was about to put in. I thought this was strange because I thought id just put gas in and it would work when I bought it but I was advised not to do that by my brother. worried that I would put the additive in the wrong I took a trip to home depot to get some premade weedeater fuel. Came home and poured it straight into the gas tank of the weedeater. I then analyzed the weedeater and found that there was a pump button and this was similar to my lawnmower so I pressed down on it and pumped the gas into the weedeater assuming it would work. After I pumped it 3 to 6 times I then looked closely at the weedeater and found there was a lever that I need to turn from off to run. I turned the lever then I assumed that it would work so I grabbed the handle and prepped myself to pull the string back. I pulled 10 times and it was not working, so I got confused. This lead me to pump the gas 3 to 4 more times and I tried again still nothing. I was so confused at this point that I started to look around and found that there was instruction printed straight onto the weedeater. Out of frustration, I followed these instructions to the letter. I pressed the pump 10 x set the lever to full choke then step by step I went down the instructions set to half choke, then to run. After following these instructions to the letter it started up perfectly and now I was ready to get some work done. What I realized when using the weed eater is that it uses gas fairly quickly. So I ran out of gas before I got done with the job so I had to take a second trip to home depot to complete my task. 
