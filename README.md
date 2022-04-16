@@ -8,5 +8,8 @@
 ## UX Journal
 
 [Read my journal entry 1](j01/)
+
+
+
 [Read my journal entry 2](j02/)
 
