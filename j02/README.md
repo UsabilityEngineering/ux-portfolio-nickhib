@@ -12,7 +12,8 @@ The instructions below saved me time and effort because when I was not using the
 below is the lever that I had to pull through the full choke to run and this has the string that one has to pull to start the weed eater. the thing that made things more complicated was that when one is starting it one has to flip through the settings slowly going from half choke to run while slowly pressing down on the lever for the throttle. This was fairly complicated until i read the bold instructions 
 
 
-![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191219024_HDR.jpg)
+![image](https://user-images.githubusercontent.com/98436821/166174972-019349a2-bd79-480c-a6eb-b31c9031a728.png)
+
 
 
 below is the small gas pump I like the **mapping** for this because it is very similar to lawnmowers so it made it easy to switch from a lawnmower to a weedeater. This made it a faster process to learn what to do. When one has a system that is used in a variety of products then there is less one has to learn to use it. So this was fantastic 
