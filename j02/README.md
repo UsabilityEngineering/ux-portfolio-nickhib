@@ -5,7 +5,8 @@
 
 The instructions below saved me time and effort because when I was not using the instruction and becoming frustrated on how to start the weedeater. It was right in plain sight in bold letters very easy to use so this made it more **learnable** in my opinion because I would have slowly read through the long small lettered instruction if it warrant these instructions. 
 
-![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191205551_HDR.jpg)
+![image](https://user-images.githubusercontent.com/98436821/166174936-f02202ae-ed88-42b3-8c4e-ad5a2532fd92.png)
+
 
 
 below is the lever that I had to pull through the full choke to run and this has the string that one has to pull to start the weed eater. the thing that made things more complicated was that when one is starting it one has to flip through the settings slowly going from half choke to run while slowly pressing down on the lever for the throttle. This was fairly complicated until i read the bold instructions 
