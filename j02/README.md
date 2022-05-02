@@ -16,9 +16,11 @@ below is the lever that I had to pull through the full choke to run and this has
 
 
 
+
 below is the small gas pump I like the **mapping** for this because it is very similar to lawnmowers so it made it easy to switch from a lawnmower to a weedeater. This made it a faster process to learn what to do. When one has a system that is used in a variety of products then there is less one has to learn to use it. So this was fantastic 
 
 
+![image](https://user-images.githubusercontent.com/98436821/166175035-89bcff75-329a-453e-b206-e752980d07d1.png)
  ![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191229123_HDR.jpg)
 
 
