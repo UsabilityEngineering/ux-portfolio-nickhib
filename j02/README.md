@@ -1,6 +1,6 @@
 # My Weedeater
 
-![image](https://github.com/UsabilityEngineering/ux-portfolio-nickhib/blob/master/assets/IMG_20220415_191145469.jpg)
+![image](/assets/IMG_20220415_191145469.jpg)
 
 The instructions below saved me time and effort because when I was not using the instruction and becoming frustrated on how to start the weedeater. It was right in plain sight in bold letters very easy to use so this made it more **learnable** in my opinion because I would have slowly read through the long small lettered instruction if it warrant these instructions. 
 
