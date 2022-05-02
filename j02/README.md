@@ -1,6 +1,7 @@
 # My Weedeater
 
-![image](../assets/IMG_20220415_191145469.jpg)
+![image](https://user-images.githubusercontent.com/98436821/166174876-6a2aa576-a3a5-4770-9d56-372d6079a70a.png)
+)
 
 The instructions below saved me time and effort because when I was not using the instruction and becoming frustrated on how to start the weedeater. It was right in plain sight in bold letters very easy to use so this made it more **learnable** in my opinion because I would have slowly read through the long small lettered instruction if it warrant these instructions. 
 
