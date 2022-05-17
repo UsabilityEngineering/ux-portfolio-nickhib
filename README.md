@@ -13,3 +13,7 @@
 
 [Read my journal entry 2](j02/)
 
+
+[Read my journal entry 1](j03/)
+
+
