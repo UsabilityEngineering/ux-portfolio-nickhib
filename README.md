@@ -14,6 +14,6 @@
 [Read my journal entry 2](j02/)
 
 
-[Read my journal entry 3](jo3/)
+[Read my journal entry 3](Jo3/)
 
 
